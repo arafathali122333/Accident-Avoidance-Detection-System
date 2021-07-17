@@ -1,0 +1,2 @@
+# Accident-Avoidance-Detection-System
+Over 75% of accidents can be avoided. The main reason for that the speed of the vehicle Sometimes the car which we drive may get accident at any places, whereas we may find no source to help us out in that situation so we may get a highest probability of losing our precious lives. In that occasion we cannot search for any active sources (human) to help us out. The main objective of this project is to reduce the count of accidents and They get the minor injury But they should not go alive.
