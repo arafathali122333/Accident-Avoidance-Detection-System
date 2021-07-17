@@ -1,2 +1,6 @@
 # Accident-Avoidance-Detection-System
-Over 75% of accidents can be avoided. The main reason for that the speed of the vehicle Sometimes the car which we drive may get accident at any places, whereas we may find no source to help us out in that situation so we may get a highest probability of losing our precious lives. In that occasion we cannot search for any active sources (human) to help us out. The main objective of this project is to reduce the count of accidents and They get the minor injury But they should not go alive.
+- Own Code, Own Circuit Connection, But not make Own Components 😂🤣😅
+
+In the accident detection system, using Accelerometer namely ADXL335 is used for detecting accident or sudden change in any axis. GPS Receiver is used for detecting coordinates of the vehicle, GSM module is used for sending the alert SMS with the coordinates and the link to Google Map.
+
+In the Accident avoid system, Ultrasonic sensor sense the opposite any vehicle or objects then the DC motor turn Anticlockwise direction in 4 seconds only.Smoke sensor sense the smoke then the DC motor is stopped.
