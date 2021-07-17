@@ -1,5 +1,5 @@
 # Accident-Avoidance-Detection-System
-- Own Code, Own Circuit Connection, But not make Own Components 😂🤣😅
++/ Own Code, Own Circuit Connection, But not make Own Components 😂🤣😅
 
 In the accident detection system, using Accelerometer namely ADXL335 is used for detecting accident or sudden change in any axis. GPS Receiver is used for detecting coordinates of the vehicle, GSM module is used for sending the alert SMS with the coordinates and the link to Google Map.
 
